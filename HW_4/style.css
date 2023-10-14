@@ -1,0 +1,11 @@
+.cart {
+    max-width: 200px;
+    min-height: 200px;
+    background-color: aqua;
+}
+
+.cart__modification {
+    max-width: 400px;
+    min-height: 400px;
+    background-color: brown;
+}
